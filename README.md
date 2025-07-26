@@ -4,7 +4,7 @@ Welcome to my Java coding journey! This repository is a collection of hands-on p
 
 ## 🧠 What You'll Find Here
 
-The programs i built while practicing java language.
+The programs I built while practicing java language.
 
 ## 🎯 Why I'm Doing This
 
